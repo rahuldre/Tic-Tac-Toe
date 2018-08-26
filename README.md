@@ -1,4 +1,4 @@
-Tic Tac Toe - Game.
-Mini Project
-Language - C++
-Tested in Mac Terminal
+Tic Tac Toe - Game <br>
+Mini Project <br>
+Language - C++ <br>
+Tested in Mac Terminal <br>
